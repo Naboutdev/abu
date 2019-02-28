@@ -1,0 +1,164 @@
+<style>
+body {
+    
+    clear: both;
+}       
+    
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+.home {
+    background-image: url("../img/_74C8829-2.JPG");
+    
+    height: 100vh;
+    background-size: cover;
+   
+    
+}
+a {
+    color: darkgray;
+}
+.m-home {
+   width: 100%;
+    text-align: center;
+    height: 400px;
+}
+.name {
+    color: gray;
+    font-size: 40px;
+    font-family: fantasy;
+}
+
+.about {
+    width: 70%;
+    float: left;
+    background-image: url("../img/_74C8829-2.JPG");
+    
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+}
+.skills {
+    background-image: url("../img/_74C8829-2.JPG");
+    
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+}
+.contact {
+    background-image: url("../img/_74C8829-2.JPG");
+    
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+
+.motivation{
+    text-align: left;
+    height: 100px;
+    width: 400px;
+    margin-right: 200px;
+}
+.socialmedia {
+    
+    color: cornflowerblue;
+    text-align: left;
+    
+}
+.welcome{
+    color: aqua;
+}
+
+.nav {
+    text-align: left<
+}
+.webskills {
+    text-align: left;
+    color: cornflowerblue;
+    clear: both;
+}
+.me {
+    margin-top: 5%;
+    color:darkseagreen;
+    font-size: 20px;
+    width: 40%;
+    
+    
+    margin-left: 5%;
+}
+footer {
+    text-align: center;
+    color: aquamarine;
+    font-size: 20px;
+    font-family: cursive;
+    
+    bottom: 0;
+    float: left;
+    clear: both;
+    width: 100%;
+    height: 10%;
+    position: fixed;
+}
+.copy {
+    float: left;
+    padding-left: 30px;
+    
+}
+.pp {
+    float: right;
+   margin-right: 4%;
+    
+}
+.icons {
+  font-size: 40px;
+    float: right;
+   padding-right: 30%;
+   
+}
+.my-skills {
+    text-align: left;
+    color: cornflowerblue;
+    clear: both;
+}
+main {
+    text-align-last: left;
+}
+#divp {
+    margin-top: 10%;
+    color:black;
+    font-size: 150%;
+   
+    margin-left: 2%;
+    box-sizing: border-box;
+    background-color: rgba(254,254,254, 0.4);
+    width: 400px;
+    border-radius: 10%;
+   
+    
+    
+}
